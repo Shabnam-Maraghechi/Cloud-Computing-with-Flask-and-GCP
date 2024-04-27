@@ -1,2 +1,2 @@
 # Cloud-Computing-with-Flask-and-GCP
-Developed a scalable and efficient web application using Flask and GCP
+Developing a web application with Flask and Python and deployed on GCP VM instance which can access information of cloud MySQL database using AWS RDS. Establishing interaction with CoinCap (a REST API) to get information of cryptocurrencies while using Flask-HTTPAuth to implement user accounts and access management. This task uses Werkzeug to achieve hash-based authentication.
